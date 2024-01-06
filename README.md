@@ -5,5 +5,9 @@ This application allows the user to order food to their house by making a select
 
 The Home Screen of the app is shown below. 
 
-![homeScreen_FoodApp](https://github.com/Dennisolod/Food-Delivery-Application/assets/63871634/78988015-20ea-491e-a98f-f43fd51a8822)
+![homeScreen_FoodApp](https://github.com/Dennisolod/Food-Delivery-Application/assets/63871634/78988015-20ea-491e-a98f-f43fd51a8822) 
 
+
+Once a restaurant is selected, the user is directed into a screen with various different food options. Upon selection, a place order button appears displaying the order total.
+
+![restaurantScreenCartItems_FoodApp](https://github.com/Dennisolod/Food-Delivery-Application/assets/63871634/b332c516-ab2e-41b8-bf04-f411819626ef)
